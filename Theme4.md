@@ -33,7 +33,7 @@ def main(): print(2+2)
 if __name__ == "__main__":
     main()
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/1.png)
 
 ### Вывод: 
 
@@ -51,7 +51,7 @@ if __name__ == "__main__":
     answer = main()
     print(answer)
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/2.png)
 
 ### Вывод: 
 
@@ -70,7 +70,7 @@ for i in range(5):
     answer = main(x, y)
     print(answer)
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/3.png)
 
 ### Вывод: 
 
@@ -90,7 +90,7 @@ if __name__ == "__main__":
     result = main(10, 0, 1, 2, -1, 0, -1, 1, 2)
     print(f"\nresult={result}")
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/4.png)
 
 ### Вывод: 
 
@@ -113,7 +113,7 @@ if __name__ == "__main__":
 
     main(**{"x": [1, 2, 3], "y": [3, 3, 0]})
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/5.png)
 
 ### Вывод: 
 
@@ -131,7 +131,7 @@ def mean(data): return sum(data)/float(len(data))
 if __name__ == "__main__":
     main(x=[1, 2, 3], y=[3, 3, 0])
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/6.png)
 
 ### Вывод: 
 
@@ -149,7 +149,7 @@ if __name__ == "__main__":
 def say_hello():
     print("Hello students!")
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/7.png)
 
 ### Вывод: 
 
@@ -168,7 +168,7 @@ def main():
 
 if __name__ == "__main__": main()
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/8.1.png)
 
 ```python
 from math import sqrt, sin, cos
@@ -181,7 +181,7 @@ def main():
 
 if __name__ == "__main__": main()
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/8.2.png)
 
 ```python
 import math
@@ -194,7 +194,7 @@ def main():
 
 if __name__ == "__main__": main()
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/8.3.png)
 
 ### Вывод: 
 
@@ -221,7 +221,7 @@ def main():
 
 if __name__ == "__main__": main()
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/9.png)
 
 ### Вывод: 
 
@@ -251,7 +251,7 @@ elif figure == "2": tringle()
 
 print(f"Площадь: {result}")
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/9.png)
 
 ### Вывод: 
 
@@ -284,7 +284,7 @@ if __name__ == '__main__': # Запускаем программу только 
     time_costs = datetime.now() - start_time  # Присваиваем переменной время выполнения программы
     print(f"Время выполнения программы - {time_costs}") # Выводим время выполнения программы
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/11.png)
 
 ### Вывод:
 
@@ -306,7 +306,7 @@ def random_chiclo():
 
 if __name__ == "__main__": random_chiclo()
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/12.png)
 
 ### Вывод: 
 
@@ -328,7 +328,7 @@ def main():
 
 if __name__ == '__main__': main()
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/13.png)
 
 ### Вывод: 
 
@@ -346,7 +346,7 @@ if __name__ == '__main__':
     result = sred(args)
     print(f'Среднее арифметическое: {result}')
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/14.png)
 
 ### Вывод: 
 
@@ -365,7 +365,7 @@ plo = heron(a, b, c)
 if __name__ == '__main__':
     print(f"Площадь треугольника равна {plo}")
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/15.1.png)
 
 ```python
 from math import sqrt
@@ -375,7 +375,7 @@ def heron(a, b, c):
     result = sqrt(s * (s - a) * (s - b) * (s - c))
     return result
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme4/pic/15.2.png)
 
 ### Вывод: 
 
