@@ -45,7 +45,7 @@ key = response.get("key")
 access = response.get("access")
 print(key,access)
 ```
-![Меню]()
+![Меню](https://github.com/TanyaTolm/PI/blob/Theme6/picture/1.png)
 
 ### Вывод: В данном коде с использованием словаря и метода get(), который возвращает значение со связанным ключом. создаем словарь с кабинетами и подходящими для них кодами.
 
